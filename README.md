@@ -1,9 +1,11 @@
 ## Data_Analyst_Portfolio
 
-Este repositorio contiene proyectos de diferentes casos de Business Analytics. Se han realizado en Jupyter Notebook por su fácilidad a la hora de escribir código, visualización del resultados.
+Este repositorio contiene proyectos de diferentes casos de Business Analytics. Se han realizado en Jupyter Notebook por su fácilidad a la hora de escribir código, visualización del resultados.El framework que he utilizado para poder realizar los proyectos es el siguiente:
+
+[![Metodologia-DA.jpg](https://i.postimg.cc/y6fgG9J4/Metodologia-DA.jpg)](https://postimg.cc/9z7QRDtJ)
 
 [Análisis Ecommerce](https://github.com/MariusBD/Data_Analyst_Portfolio/tree/main/Analisis-Ecommerce): El objetivo es la optimización de un ecommerce donde se intentará proponer acciones de CRO (mejora de la conversión) a partir del análisis dee las ventas transaccionales y del customer journey de los clientes.
-- Marketing digitai: #sesiones, #usuarios, #generación tráfico,
+- Marketing digital: #sesiones, #usuarios, #generación tráfico,
 - Clientes: Life Time Value (LTV), diferencias entre el margen que nos están dejando los clientes,segmentación de clientes...
 - Análisis de portfolio, trabajar sobre el catálogo de  productos...
   
