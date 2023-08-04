@@ -18,7 +18,7 @@ La metodologia que he utilizado para poder realizar los proyectos se puede ver e
 
 [Análisis Eficiencia Planta Solar](https://github.com/MariusBD/Data_Analyst_Portfolio/tree/main/Analisis-Eficiencia-en-Planta-Solar/Notebooks): Analizar los datos de una empresa de energia, que tiene unas plantas solares. El objetivo mediante el análisis es investigar el motivo de la pérdidia de productividad en estas plantas.Entender como funciona el sector para poder enfocar el análisis de una manera más precisa.En este caso se trabaja mucho la parte de calidad de datos y visualización de datos con gráficos muy potentes, que nos ayudan a conseguir nuestros insights.
 
-_Herramientas: Python, Pandas, Numpy, Matplotlib, Seaborn, Folium
+  _Herramientas: Python, Pandas, Numpy, Matplotlib, Seaborn, Folium
 
 ### Instrucciones de ejecución en local
 1. Abrir miniconda y crear un entorno de trabajo con los paquetes necesarios, ver Notebooks.
