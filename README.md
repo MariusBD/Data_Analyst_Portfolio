@@ -1,6 +1,6 @@
 ## Data_Analyst_Portfolio
 
-Este repositorio contiene proyectos de diferentes casos de Business Analytics. Se han realizado en Jupyter Notebook por su fácilidad a la hora de escribir código, visualización de resultados.
+Este repositorio contiene proyectos de diferentes casos reales de Business Analytics.El objetivo de estos proyectos es resolver problemas de negocio utilizando técnicas de análisis de datos y generar insights que ayuden a la toma de decisiones.Los casos son de diferentes sectores de negocio donde en cada uno de ellos se le da un enfoque específico del sector.
 
 La metodologia que he utilizado para poder realizar los proyectos se puede ver en la siguiente imagen:
 [![Metodologia-DA.jpg](https://i.postimg.cc/y6fgG9J4/Metodologia-DA.jpg)](https://postimg.cc/9z7QRDtJ)
