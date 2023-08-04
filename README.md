@@ -6,6 +6,6 @@ Este repositorio contiene proyectos de diferentes casos de Business Analytics. S
 1. Abrir miniconda.
 2. Crear un entorno de trabajo instalando todas las librerias descritas en el SET UP.
 3. Activar entorno y abrir jupyter notebook.
-
+h
 
 
