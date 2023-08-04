@@ -1,6 +1,6 @@
 ## Data_Analyst_Portfolio
 
-Este repositorio contiene proyectos de diferentes casos de Business Analytics. Se han realizado en Jupyter Notebook por su fácilidad a la hora de escribir código, visualización del resultados.El framework que he utilizado para poder realizar los proyectos es el siguiente:
+Este repositorio contiene proyectos de diferentes casos de Business Analytics. Se han realizado en Jupyter Notebook por su fácilidad a la hora de escribir código, visualización del resultados.La metodologia que he utilizado para poder realizar los proyectos es la siguiente:
 
 [![Metodologia-DA.jpg](https://i.postimg.cc/y6fgG9J4/Metodologia-DA.jpg)](https://postimg.cc/9z7QRDtJ)
 
