@@ -10,12 +10,6 @@ La metodologia que he utilizado para poder realizar los proyectos se puede ver e
 - Clientes: Life Time Value (LTV), diferencias entre el margen que nos están dejando los clientes,segmentación de clientes(RFM), sistema de recomendación...
 - Análisis de portfolio, trabajar sobre el catálogo de  productos.
   
-[Análisis Mercado Inmobiliario](https://github.com/MariusBD/Data_Analyst_Portfolio/tree/main/Analisis-Mercado-Immobiliario/Notebooks): Analizar los datos públicos de Airbnb de la ciudad de Madrid.El objetivo es encontrar oportunidades en el mercado del alquiler turístico, concretamente encontrar aquellos inmuebles que nos van a devolver mayor rentabilidad si hacemos la inversión de comprar esos inmuebles con el objetivo de ponerlos después en alquiler turístico.
-- Diferencias de crecimiento entre barrios.
-- Análisis de competencia.
-- Calcular distancias entre puntos de interés.
-- Crear mapas con Python(Folium), para entregar los resultados de una manera visual y que se entiendan fácilmente.
-
 [Análisis Eficiencia Planta Solar](https://github.com/MariusBD/Data_Analyst_Portfolio/tree/main/Analisis-Eficiencia-en-Planta-Solar/Notebooks): Analizar los datos de una empresa de energia, que tiene unas plantas solares. El objetivo mediante el análisis es investigar el motivo de la pérdidia de productividad en estas plantas.Entender como funciona el sector para poder enfocar el análisis de una manera más precisa.En este caso se trabaja mucho la parte de calidad de datos y visualización de datos con gráficos muy potentes, que nos ayudan a conseguir nuestros insights.
 
  Herramientas: Python, Pandas, Numpy, Matplotlib, Seaborn, Folium
