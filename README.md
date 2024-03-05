@@ -2,8 +2,6 @@
 
 Este repositorio contiene proyectos de diferentes casos reales de Business Analytics.El objetivo de estos proyectos es resolver problemas de negocio utilizando técnicas de análisis de datos y generar insights que ayuden a la toma de decisiones.Los casos son de diferentes sectores de negocio donde en cada uno de ellos se le da un enfoque específico del sector.
 
-La metodologia que he utilizado para poder realizar los proyectos se puede ver en la siguiente imagen:
-[![Metodologia-DA.jpg](https://i.postimg.cc/y6fgG9J4/Metodologia-DA.jpg)](https://postimg.cc/9z7QRDtJ)
 
 [Análisis Ecommerce](https://github.com/MariusBD/Data_Analyst_Portfolio/tree/main/Analisis-Ecommerce): El objetivo es la optimización de un ecommerce donde se intentará proponer acciones de CRO (mejora de la conversión) a partir del análisis de las ventas transaccionales y del customer journey de los clientes. Algunos temas que trata el proyecto son:
 - Marketing digital: #sesiones, #usuarios, generación tráfico,
